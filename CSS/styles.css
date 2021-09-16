@@ -1,0 +1,23 @@
+body{
+    background-image: url("download.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+ background-color:red;
+}
+ h1{
+     font-size: 100px;
+     font-style: oblique;
+     border-style:solid;
+     border-color: cornflowerblue;
+     padding-left: 2%;
+     text-align:center;
+     
+ }
+
+ p {
+    font-family: "Brush Script MT", cursive;
+    font-size: 40px;
+    text-decoration: underline;
+ }
